@@ -1,0 +1,14 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer .social{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-left: -20px;
+}
+footer form input{  
+    width: 255px;
+}
